@@ -1,4 +1,4 @@
-## # Hi, I'm Uday Reddy Guduru 👋
+##  Hi, I'm Uday Reddy Guduru 👋
 
 Machine Learning Engineer, Data Science enthusiast, and aspiring GenAI practitioner passionate about building intelligent systems and end-to-end machine learning solutions.
 
